@@ -1,0 +1,17 @@
+Plugin manager for zsh
+Oh-my-zsh
+https://github.com/ohmyzsh/ohmyzsh
+
+
+Plugins:
+
+	1. Powerline
+		https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme.git
+
+	2. Syntax Highliting
+		https://github.com/zsh-users/zsh-syntax-highlighting
+
+	3. Autosuggetions
+		https://github.com/zsh-users/zsh-autosuggestions
+
+
